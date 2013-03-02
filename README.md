@@ -1,0 +1,2 @@
+AdobeProfessionalCS6_DifferenceBetweenKindsOfSpritesheetFormat
+==============================================================
